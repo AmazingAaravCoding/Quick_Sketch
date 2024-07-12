@@ -1,0 +1,29 @@
+body {
+    background-color: #ffaaaa;
+}
+
+h1 {
+    background-color: blue;
+    color: cyan;
+}
+
+#show_sketch {
+    float: right;
+}
+
+#score {
+    float: left;
+}
+
+#time {
+    float: right;
+}
+
+#sketch_name {
+    color: yellow;
+    font-weight: bold;
+}
+
+p {
+    font-size: 30px;
+}
